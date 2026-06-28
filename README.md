@@ -10,9 +10,13 @@ The aim is to practice basic biological data handling, simple comparison, visual
  Python,Pandas, Matplotlib, Seaborn, Google Colab, GitHub
 ## Folder Structure
  ⁠README.md⁠: Project documentation.
+ 
  ⁠notebooks/⁠: Contains the analysis script (⁠breast_cancer_expression_analysis.ipynb⁠).
+ 
  ⁠data/⁠: Contains the simplified dataset (⁠selected_gene_expression_table.csv⁠).
+ 
  ⁠figures/⁠: Contains generated visualizations.
+ 
  ⁠reports/⁠: Contains the biological interpretation and project reflection.
 ## Summary of Analysis
 1. Understanding the biological context of the dataset.
