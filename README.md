@@ -24,5 +24,7 @@ The aim is to practice basic biological data handling, simple comparison, visual
 3. Data exploration and handling using Python.
 4. Identifying differentially expressed genes.
 5. Creating visualizations to explain the findings.
+## outputs
+Notbook, selected gene expression  table, figures, short interpretation, and reflection.   
 ## Note
 This is a beginner training project, not a clinical or diagnostic tool.
