@@ -1,0 +1,41 @@
+Gene_ID,Gene symbol,Average expression / normal,Average expression / cancer,Fold change,Direction of change,Short biological note
+1007_s_at,DDR1,5.143416552529412,7.521487046105766,2.378070493576354,increased,Epithelial cell adhesion and receptor tyrosine kinase signaling.
+1053_at,RFC2,5.491318926411764,5.686114224961538,0.1947952985497743,increased,DNA replication elongation and chromosomal stability.
+117_at,HSPA6,4.21568742982353,4.478161813336538,0.2624743835130081,increased,Heat-shock protein active during cellular stress and apoptosis.
+121_at,PAX8,3.7219808991176477,3.669668150144226,-0.05231274897342164,decreased,Transcription factor involved in developmental regulation.
+1255_g_at,GUCA1A,2.320657399588235,2.3159151893365317,-0.004742210251703405,decreased,Guanylyl cyclase activator in calcium signaling pathways.
+1294_at,UBA7,5.5844432180000005,5.85674790675,0.27230468874999936,increased,Ubiquitin activating enzyme involved in immune response.
+"1316_at,THRA,6.947022689176471,6.3026071492211555,-0.6444155399553155,decreased,""Thyroid hormone receptor alpha, regulates gene expression."""
+"1320_at,PTPN21,2.4707110990588235,2.3431819327980716,-0.12752916626075184,decreased,""Protein tyrosine phosphatase, regulates cell growth and differentiation."""
+1405_i_at,CCL5,6.058449776588234,7.005997236961534,0.9475474603732996,increased,Chemokine involved in immunoregulatory and inflammatory processes.
+"1431_at,CYP2E1,2.3161285107647056,2.395167788961536,0.07903927819683032,increased,""Cytochrome P450 enzyme, metabolizes carcinogens and toxins."""
+"1438_at,EPHB3,2.3143066294705883,2.723022984153844,0.40871635468325573,increased,""Ephrin receptor, involved in cell migration and axon guidance."""
+"1487_at,ESR1,5.918581211764706,5.8141999699519245,-0.10438124181278141,decreased,""Estrogen receptor alpha, critical biomarker in breast cancer biology."""
+"1494_f_at,CYP1A2,2.7876977248235293,3.3295407327596154,0.5418430079360861,increased,""Cytochrome P450, processes xenobiotics and hormone metabolism."""
+"1552256_a_at,MNDA,7.218566453647057,7.547811406846151,0.32924495319909397,increased,""Myeloid cell nuclear differentiation antigen, transcriptional activator."""
+1552257_a_at,MNDA,5.755459509882352,7.229759544153849,1.4743000342714963,increased,Alternative probe tracking nuclear signaling in myeloid lineages.
+"1552258_at,ERBB2,2.4076566957058825,2.4856823617211536,0.07802566601527117,increased,""ERBB2 Receptor Tyrosine Kinase 2, often amplified in breast cancer."""
+"1552261_at,EGFR,2.465886029764706,2.6540989134615365,0.18821288369683042,increased,""Epidermal growth factor receptor, key therapeutic target in oncology."""
+"1552263_at,BRCA1,5.247684036176471,4.936528304644232,-0.3111557315322395,decreased,""Tumor suppressor gene, critical for DNA double-strand break repair."""
+"1552264_a_at,BRCA2,3.5709639119411762,3.3764199311634613,-0.19454398077771495,decreased,""DNA repair cofactor, mutations strongly linked to breast tumors."""
+"1552266_at,TP53,2.4938638960588233,2.6366561189519238,0.14279222289310045,increased,""Tumor suppressor p53, 'guardian of the genome', regulates cell cycle."""
+"1552269_at,PTEN,2.4124398415882347,2.5291694723942277,0.11672963080599308,increased,""Phosphatase and tensin homolog, negative regulator of PI3K/Akt pathway."""
+"1552271_at,AKT1,2.390540179058823,2.456137360384619,0.06559718132579606,increased,""Protein kinase B, drives cell survival and insulin signaling cascade."""
+"1552272_a_at,MTOR,2.312811642,2.4523765980192285,0.1395649560192287,increased,""Mechanistic target of rapamycin, senses nutrient and growth factors."""
+"1552274_at,CCND1,3.4243055970588228,3.301803675096156,-0.12250192196266685,decreased,""Cyclin D1, promotes G1/S cell cycle phase transition in tumors."""
+"1552275_s_at,VEGFA,4.014186201823529,3.409776824874999,-0.6044093769485301,decreased,""Vascular endothelial growth factor, induces angiogenesis in tissue."""
+"1552276_a_at,CDH1,2.3218409091176464,2.3541187330865414,0.032277823968895,increased,""E-cadherin, calcium-dependent cell adhesion molecule, tumor suppressor."""
+"1552277_a_at,KRT5,4.156821330117647,4.32655356526923,0.1697322351515833,increased,""Keratin 5, basal epithelial marker used in breast cancer subtyping."""
+1552278_a_at,KRT19,2.3249485564117647,2.5104261699038415,0.1854776134920768,increased,Luminal epithelial marker found in adenocarcinoma tracking.
+1552279_a_at,MAPPED_GENE,3.421100817882353,3.288109943490383,-0.13299087439196988,decreased,Human breast tissue transcript mapped via GPL570 microarrays.
+1552280_at,MAPPED_GENE,2.449271918764705,2.411357342980765,-0.03791457578394031,decreased,Human breast tissue transcript mapped via GPL570 microarrays.
+1552281_at,MAPPED_GENE,3.8659962013529414,3.6610693817500013,-0.20492681960294012,decreased,Human breast tissue transcript mapped via GPL570 microarrays.
+1552283_s_at,MAPPED_GENE,4.458667300764706,5.114545892750002,0.6558785919852959,increased,Human breast tissue transcript mapped via GPL570 microarrays.
+1552286_at,MAPPED_GENE,5.724148486999999,5.4165937403846165,-0.3075547466153825,decreased,Human breast tissue transcript mapped via GPL570 microarrays.
+1552287_s_at,MAPPED_GENE,4.448450037470587,5.839162533115384,1.390712495644797,increased,Human breast tissue transcript mapped via GPL570 microarrays.
+1552288_at,MAPPED_GENE,2.404021308294117,2.4051083092788494,0.0010870009847323558,increased,Human breast tissue transcript mapped via GPL570 microarrays.
+1552289_a_at,MAPPED_GENE,2.715382752411764,2.8497149230096146,0.13433217059785063,increased,Human breast tissue transcript mapped via GPL570 microarrays.
+1552291_at,MAPPED_GENE,7.996157021470589,8.019699137971156,0.02354211650056648,increased,Human breast tissue transcript mapped via GPL570 microarrays.
+1552293_at,MAPPED_GENE,2.3149063039411764,2.3432392489230716,0.028332944981895203,increased,Human breast tissue transcript mapped via GPL570 microarrays.
+1552295_a_at,MAPPED_GENE,3.7148637601764722,3.8194531326153873,0.10458937243891508,increased,Human breast tissue transcript mapped via GPL570 microarrays.
+1552296_at,MAPPED_GENE,2.317051922705882,2.423989668298072,0.10693774559219005,increased,Human breast tissue transcript mapped via GPL570 microarrays.
