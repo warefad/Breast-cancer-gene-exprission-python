@@ -8,7 +8,7 @@ Gene_ID,Gene symbol,Average expression / normal,Average expression / cancer,Fold
 1316_at,THRA,6.947022689176471,6.3026071492211555,-0.6444155399553155,decreased,Thyroid hormone receptor alpha; regulates gene expression.
 1320_at,PTPN21,2.4707110990588235,2.3431819327980716,-0.12752916626075184,decreased,Protein tyrosine phosphatase; regulates cell growth and differentiation.
 1405_i_at,CCL5,6.058449776588234,7.005997236961534,0.9475474603732996,increased,Chemokine involved in immunoregulatory and inflammatory processes.
-1431_at,CYP2E1,2.3161285107647056,2.395167788961536,0.07903927819683032,increased,Cytochrome P450 enzyme, metabolizes carcinogens and toxins.
+1431_at,CYP2E1,2.3161285107647056,2.395167788961536,0.07903927819683032,increased,Cytochrome P450 enzyme; metabolizes carcinogens and toxins.
 1438_at,EPHB3,2.3143066294705883,2.723022984153844,0.40871635468325573,increased,Ephrin receptor; involved in cell migration and axon guidance.
 1487_at,ESR1,5.918581211764706,5.8141999699519245,-0.10438124181278141,decreased,Estrogen receptor alpha; critical biomarker in breast cancer biology.
 1494_f_at,CYP1A2,2.7876977248235293,3.3295407327596154,0.5418430079360861,increased,Cytochrome P450; processes xenobiotics and hormone metabolism.
